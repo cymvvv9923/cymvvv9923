@@ -2,7 +2,8 @@
 
 Hello!  
 I am studying data and artificial intelligence while exploring various projects.  
-My main interests are **deep learning**, **computer vision**, and **large language models (LLMs)**.  
+I have carried out multiple **computer vision** projects,  
+and I am currently studying **large language models (LLMs)** as well.  
 
 ---
 
