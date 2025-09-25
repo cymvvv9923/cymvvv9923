@@ -1,8 +1,8 @@
 # 👨‍💻 cymvvv9923  
 
 <h3>
-I am studying data and artificial intelligence while exploring various projects.  
-I have carried out multiple <b>computer vision</b> projects,  
+I am studying data and artificial intelligence while exploring various projects.<br>
+I have carried out multiple <b>computer vision</b> projects,<br>
 and I am currently studying <b>large language models (LLMs)</b> as well.  
 </h3>
 
