@@ -1,8 +1,8 @@
 # 👨‍💻 cymvvv9923  
 
-안녕하세요!  
-데이터와 인공지능을 공부하며 다양한 프로젝트에 도전하고 있습니다.  
-특히 **딥러닝**과 **컴퓨터 비전** 분야에 관심이 많습니다.  
+Hello!  
+I am studying data and artificial intelligence while exploring various projects.  
+My main interests are **deep learning**, **computer vision**, and **large language models (LLMs)**.  
 
 ---
 
